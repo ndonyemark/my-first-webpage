@@ -1,0 +1,20 @@
+h1  {
+    /* color: blue; */
+    color: #0000ff;
+    text-align: center;
+}
+
+h2  {
+    color: grey;
+    font-style: italic;
+    text-align: center;
+}
+
+p   {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+ul  {
+    line-height: 40px;
+
+}
